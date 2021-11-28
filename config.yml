@@ -80,9 +80,9 @@ params:
         Content: >
             ## Ahoy & Cheers!
 
-            - I'm Ristretto or Mike, and this is my freshly minted personal blog. 
+            - You've found your way to my 'freshly brewed' personal site. 
 
-            - Below are links to find me elsewhere online followed by this site's posts. Happy reading!
+            - Below are some links to me elsewhere on the internet (unsure if I'll keep those here on the frontpage) and following those will be where blog posts begin to appear. I'm still getting to grips with Hugo, Github, and writing again after many years away - so stay tuned & happy (eventual) reading!
 
     socialIcons:
         - name: twitch
