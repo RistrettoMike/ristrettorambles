@@ -45,7 +45,7 @@ outputs:
 
 params:
     env: production # to enable google analytics, opengraph, twitter-cards and schema.
-    description: "Theme PaperMod - https://github.com/adityatelange/hugo-PaperMod"
+    description: "Rambles from Ristretto, in blog form."
     author: Ristretto
     # author: ["Ristretto", "You"] # multiple authors
 
@@ -60,11 +60,11 @@ params:
     ShowCodeCopyButtons: true
     ShowToc: true
     # comments: false
-    images: ["papermod-cover.png"]
+    # images: ["papermod-cover.png"]
 
     profileMode:
         enabled: false
-        title: PaperMod
+        title: RistrettoRambles
         imageUrl: "/icon.png"
         imageTitle: my image
          #imageWidth: 72
