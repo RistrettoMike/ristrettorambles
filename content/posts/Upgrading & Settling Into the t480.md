@@ -76,9 +76,6 @@ Having gotten mostly used to the size and invested some time tweaking the machin
 
 ## The Upgrades:
 
---
-
-
 ![igzo1](/images/t480post/igzo1.jpg)
 
 ![igzo2](/images/t480post/igzo2.jpg)
@@ -88,8 +85,6 @@ Having gotten mostly used to the size and invested some time tweaking the machin
 This is a phenomenal screen that's likely the best panel I have in a device at this point. Especially coming from the underwhelming stock TN panel this display has made using the t480 a lot more special. I can tell I'm looking at a high quality panel each time it flicks on and I see the Lenovo logo or my desktop wallpaper. Colors and blacks simply pop ([NotebookCheck reviewed this panel here](https://www.notebookcheck.net/Lenovo-ThinkPad-T495-Review-business-laptop-with-AMD-processor-long-battery-life-and-good-display.434716.0.html#toc-display)), & all that alongside the high 400nits brightness and reduced power draw is just a treat. This is also my first time using a 1080p panel in a 14" screen, and I find things to be a good balance of spacious, readable, and crisp at 125% scaling. 
 
 Ensuring to get the IGZO panel made by Innolux means you'll get all the aforementioned niceties without compromising on more intense ghosting like with some of the other IGZO FHD panels from BOE & AUO. [I had good luck sourcing a genuine panel with this seller](https://www.ebay.com/itm/72-color-N140HCG-GQ2-fit-N140HCG-GR2-NE140FHM-N61FOR-T490-T495-T460-T470-T480/174392007344?ssPageName=STRK%3AMEBIDX%3AIT&_trksid=p2057872.m2749.l2649) on eBay who mention including the proper panel-mounting-brackets in their listing, and also reached out to me upon placing my order to confirm their panel would be compatible with my device. It took a few weeks to show up, but it was so worth it. Allow yourself some time to sit down and gradually remove the bezel so you don't kink it and its' adhesive strips like I did, and you'll be golden.
-
---
 
 ![keyboard1](/images/t480post/keyboard1.jpg)
 
@@ -103,8 +98,6 @@ The keyboard turned out to be a pretty finicky upgrade for me. I didn't mind the
 
 As mentioned above, the backlit keyboard does feel slightly different from the non-backlit model in typing dynamics. It seems to have the same amount of tactility and force required for a keypress, but springs back afterward ever so slightly softer & quieter. I don't feel a huge difference in use, but I do give a slight edge to the feel of the non-backlit model. The keys of the backlit keyboard are made of a higher quality material and have legends formed into the keys themselves to allow the backlight to shine through. The backlight itself isn't as bright or as clean as other laptops I've seen, but I appreciate having the option there when I need it.
 
---
-
 ![traackpad](/images/t480post/trackpad.jpg)
 
 ### X1 Extreme Glass Trackpad
@@ -114,8 +107,6 @@ This was one of my final upgrades. It was [a relatively cheap part + long wait t
 I use the TrackPoint for most mousing duties, but enjoy the trackpad for gestures throughout Windows or for when I can't use both my hands while using the machine. The glass surface is smoother than the plastic trackpad but still has a very fine, matte texture finish to the surface. 
 
 I've already put a few hairline scratches in mine somehow, which is something I didn't think about happening with glass but totally does. Still, I'm happy the surface I interact with there will likely stay fresher looking and nicer feeling over time than plastic would.
-
---
 
 ![trackpoint2](/images/t480post/trackpoint2.jpg)
 
@@ -128,8 +119,6 @@ I came to prefer the soft-rim style TrackPoint while using my x230 earlier this 
 ![trackpoint3](/images/t480post/trackpoint3.jpg)
 
 It took awhile to ship overseas but was worth the wait. The material is slightly tougher feeling than the stock soft-dome cap, but recaptures the sensitivity and finger-anchoring that I appreciate with the official soft-rim caps. A cheap way to enjoy your TrackPoint even more & support a ThinkPad fan's shop. :)
-
---
 
 ![ssd](/images/t480post/ssd.jpg)
 
@@ -147,7 +136,7 @@ And after that, here's the boosted speeds from the SN520 2242 NVMe SSD:
 
 ![ssd3](/images/t480post/ssd3.PNG)
 
---
+Pretty nice :)
 
 ![battery1](/images/t480post/battery1.jpg)
 
@@ -162,8 +151,6 @@ The stock setup of external 3-cell battery + internal 3-cell battery gave me aro
 ![battery3](/images/t480post/battery3.jpg)
 
 On the 72Wh 6-cell battery + 3-cell internal I routinely use my computer for upwards of 6 hours at work and still pack up the machine with 50% or more left to go. I was expecting the combination of a low-power display, undervolted CPU, and extended battery to be potent - *just not quite this potent*. Anywhere from 10 to 14 hours of screen-on time is just insane to me. It's a tossup between the IGZO display and this battery for my favorite upgrade.
-
---
 
 ![heatsink](/images/t480post/heatsink.jpg)
 
