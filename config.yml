@@ -24,12 +24,15 @@ languages:
                 - name: About
                   url: about
                   weight: 5
+                - name: RistreDatabase
+                  url: ristredatabase
+                  weight: 10
                 - name: Archive
                   url: archives
-                  weight: 5
+                  weight: 15
                 - name: Search
                   url: search/
-                  weight: 10
+                  weight: 20
                 #- name: Tags
                   #url: tags/
                   #weight: 10
@@ -55,7 +58,7 @@ params:
     ShowReadingTime: true
     disableSpecial1stPost: true
     displayFullLangName: true
-    ShowPostNavLinks: true
+    #ShowPostNavLinks: true
     ShowBreadCrumbs: true
     ShowCodeCopyButtons: true
     ShowToc: true
@@ -80,9 +83,15 @@ params:
         Content: >
             ## Ahoy & Cheers!
 
-            - You've found your way to my 'freshly brewed' personal site. 
+            ---
 
-            - Below are some links to me elsewhere on the internet (unsure if I'll keep those here on the frontpage) and following those will be where blog posts begin to appear. I'm still getting to grips with Hugo, Github, and writing again after many years away - so stay tuned & happy (eventual) reading!
+            - Welcome to my 'freshly brewed' personal site. 
+
+            - Here you'll find my bits of writing, current projects, a small writeup about myself, and links to other profiles of mine around the 'net. 
+          
+            --- 
+
+            - Thanks for visiting!
 
     socialIcons:
         - name: twitch

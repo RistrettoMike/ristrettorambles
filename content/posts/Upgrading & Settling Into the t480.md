@@ -20,13 +20,14 @@ hideSummary: false
 searchHidden: false
 ShowReadingTime: true
 ShowBreadCrumbs: false
-ShowPostNavLinks: true
+#ShowPostNavLinks: true
 cover:
     image: /images/t480post/desk.jpg # image path/url
     #alt: "<alt text>" # alt text
     #caption: "Some impressions of the ThinkPad t480 & a host of upgrades I made to mine." # display caption under cover
     relative: false # when using page bundles set this to true
     hidden: true # only hide on current single page
+    linkFullImages: true
 #editPost:
     #URL: "https://github.com/<path_to_repo>/content"
     #Text: "Suggest Changes" # edit text

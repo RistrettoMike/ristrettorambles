@@ -9,7 +9,7 @@ author: "Ristretto"
 showToc: false
 TocOpen: false
 draft: false
-hidemeta: false
+hidemeta: true
 comments: false
 #description: "Desc Text."
 canonicalURL: "https://canonical.url/to/page"
@@ -33,7 +33,7 @@ cover:
     appendFilePath: true # to append file path to Edit link
 ---
 
-# About This Site:
+# About This Site
 
 ![thatsme.jpg](/about/thatsme.jpg)
 
