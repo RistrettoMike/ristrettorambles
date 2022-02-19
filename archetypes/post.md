@@ -1,6 +1,6 @@
 ---
 title: ""
-date: 2020-09-15T11:30:03+00:00
+date: 2022-02-19T15:30:03+00:00
 # weight: 1
 # aliases: [""]
 tags: [""]
@@ -19,12 +19,12 @@ disableHLJS: false
 hideSummary: false
 searchHidden: false
 ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-cover:
-    image: "<image path/url>" # image path/url
-    alt: "<alt text>" # alt text
-    caption: "<text>" # display caption under cover
-    relative: false # when using page bundles set this to true
-    hidden: true # only hide on current single page
+ShowBreadCrumbs: false
+ShowPostNavLinks: false
+#cover:
+    #image: "<image path/url>" # image path/url
+    #alt: "<alt text>" # alt text
+    #caption: "<text>" # display caption under cover
+    #relative: false # when using page bundles set this to true
+    #hidden: true # only hide on current single page
 ---
