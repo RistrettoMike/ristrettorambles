@@ -49,7 +49,7 @@ All writing for the site is composed in markdown, pushed to a [Github](https://g
 
 ### Me, Elsewhere:
 
-Outside this site you can find me on [my Twitch channel](https://www.twitch.tv/ristrettochronicles) where I stream the Monster Hunter games slowly and thoroughly, [my YouTube Channel](https://www.youtube.com/channel/UCgg0KncWzZobxuy3nO0xRuQ) where full stream VODs get archived, [my Twitter](https://twitter.com/ristrettogames), and [my community Discord server.](https://discord.gg/f2QmzbH)
+Outside this site you can find me on [my Twitch channel](https://www.twitch.tv/ristrettorambles) where I stream the Monster Hunter games slowly and thoroughly, [my YouTube Channel](https://www.youtube.com/channel/UCgg0KncWzZobxuy3nO0xRuQ) where full stream VODs get archived, [my Twitter](https://twitter.com/ristrettogames), and [my community Discord server.](https://discord.gg/f2QmzbH)
 
 The aforementioned Twitter and Discord are the easiest places to reach me if you'd like to talk about something, but you can also send me a message at ristrettogames@gmail.com if you'd like to contact me via email.
 

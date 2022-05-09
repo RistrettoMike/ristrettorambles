@@ -95,7 +95,7 @@ params:
 
     socialIcons:
         - name: twitch
-          url: "http://twitch.tv/ristrettochronicles/"
+          url: "http://twitch.tv/ristrettorambles/"
         - name: discord
           url: "https://discord.gg/f2QmzbH"
         - name: twitter

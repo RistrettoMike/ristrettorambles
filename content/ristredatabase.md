@@ -39,7 +39,7 @@ cover:
 
 [Click here to view the RistreDatabase](https://docs.google.com/spreadsheets/d/16q71rQt2BRhsuJKqMj-PKdVehqrNmWZkAdcubU_SOIE)
 
-The RistreDatabase is a shared spreadsheet logging of all the hunts I do in the Monster Hunter series [on Twitch as RistrettoChronicles.](http://twitch.tv/ristrettochronicles/) One can browse by monster(s) hunted and quest rank, weapon type used, by individual game in the series, by date, or any combination of those factors.
+The RistreDatabase is a shared spreadsheet logging of all the hunts I do in the Monster Hunter series [on Twitch.](http://twitch.tv/ristrettorambles/) One can browse by monster(s) hunted and quest rank, weapon type used, by individual game in the series, by date, or any combination of those factors.
 
 ### Usage:
 
