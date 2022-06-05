@@ -23,16 +23,16 @@ languages:
             main:
                 - name: About
                   url: about
-                  weight: 5
-                - name: RistreDatabase
-                  url: ristredatabase
-                  weight: 10
+                  weight: 2
                 - name: Archive
                   url: archives
-                  weight: 15
-                - name: Search
-                  url: search/
-                  weight: 20
+                  weight: 4
+                - name: Now
+                  url: now/
+                  weight: 1
+                - name: Evergreen
+                  url: evergreen/
+                  weight: 3
                 #- name: Tags
                   #url: tags/
                   #weight: 10
