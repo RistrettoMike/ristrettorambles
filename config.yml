@@ -28,10 +28,10 @@ languages:
                   url: archives
                   weight: 4
                 - name: Now
-                  url: now/
+                  url: now
                   weight: 1
                 - name: Evergreen
-                  url: evergreen/
+                  url: evergreen
                   weight: 3
                 #- name: Tags
                   #url: tags/
