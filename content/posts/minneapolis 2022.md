@@ -30,8 +30,6 @@ cover:
 ---
 Late this past June, my wife Anné was invited to speak as a part of an internship-team at the "ASEE" American Society of Engineering Education convention in Minneapolis, MN. Neither of us travel much, but with her program covering many of the costs involved and my having started a remote job, we decided it would be a fun trip for us both to go on.
 
-![cover](/images/minneapolis/cover.JPG)
-
 I hadn't written about or taken photos of a trip in many years now, but I did pack my camera, and it felt natural to pick up and shoot some photos again. You'll see those sprinkled throughout this post, and while I didn't take photographs of *everything* that I would've liked to looking back (a summery rooftop-Italian dinner likely could've used a snap or two), I'm just glad to have shot anything at all. 
 
 ![street cars pic](/images/minneapolis/streetcars.jpg)
