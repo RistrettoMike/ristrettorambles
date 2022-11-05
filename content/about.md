@@ -39,7 +39,7 @@ cover:
 
 Ahoy, I'm Mike and RistrettoRambles is my personal website and blog. I've gone by the name "Ristretto" in my streams on Twitch for several years now, and this site will be the home for the majority of my 'rambles' going forward. 
 
-I was raised in one of the suburbs surrounding Detroit before moving to Michigan's Upper Peninsula with my wife Anné shortly after our wedding. I've spent 7 years now working full-time at small businesses around the state - ranging from a cafe to a rock climbing gym - and for the last 3 years I've dedicated a good bit of my free time to streaming the Monster Hunter series on Twitch.
+I was raised in one of the suburbs surrounding Detroit before moving to Michigan's Upper Peninsula with my wife Anné shortly after our wedding. I spent 7 years working full-time at small businesses around the state - ranging from several cafes to a rock climbing gym - before taking a support role at the small mechanical keyboard company [ZSA](http://zsa.io/) in mid-2022. For the last 4 years I've also dedicated a good bit of my free time to streaming the Monster Hunter series on Twitch.
 
 The intention is for this site to be a place where I can write about any of the interests I find myself immersed in. I hope that in the long-term I and others can look back on a breadth of writing here for minute details about tech, video games I care about, and all manner of else.
 

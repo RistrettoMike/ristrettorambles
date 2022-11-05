@@ -34,29 +34,32 @@ cover:
 ---
 
 # What I'm Doing Now:
-*Last updated on June 4th, 2022.*
+*As updated on November 5th, 2022.*
 
-### Training At My New Job:
+### Practicing photography:
 
-I'm a little over halfway through the hands-on training for my new job at an as-of-yet-unnamed small business & mechanical keyboard company. Working remotely for the first time has been an interesting change to get used to, and I'm still acclimating to the workload, my routine, and how to fit in time with my hobbies and loved ones around the work that needs doing. Oh, and I'll get my own keyboard from them soon -- very exciting!
+This summer I purchased my first new-to-me camera in a decade, which quickly snowballed into researching, learning, and practicing a whole lot about photography these last few months. Since then I've shot my way through several late-summer trips, traipsed all around our small town looking for views and moments worth capturing, and *yes* bought probably a bit too much in the way of photo gear. I'm still very much getting my bearings when it comes to subject matter, preferred focal lengths, and the actual *purpose* with which I'm shooting photos, but I'm betting that through continuing to shoot these aspects will continue to become clearer to me.
 
-### Ramping Up For Sunbreak:
+### Cutting back on internet-distractions again:
 
-After a few months of deliberation where I thought I might not stream the latest entry in my favorite game series (the upcoming large expansion [Monster Hunter Rise: Sunbreak](https://www.monsterhunter.com/rise-sunbreak/)), I've decided to both play it at launch *and* focus on enjoying myself and staying positive. That can be tough in the midst of a very "online" community that tends to jump to conclusions and work themselves up in ways that can be draining if paid too much mind -- so I'll be working at... not paying too much mind and having fun instead!
+Partially thanks to all my photography (cough-*gear*-cough) research,  I've been watching more videos, shopping more sites, and just spending more time *consuming* things online than I'm really comfortable with. It's been about a year now since I first started more seriously [assessing my attention](https://ristrettorambles.com/posts/assessing-my-attention/) and how it relates to my computer usage, and I think it's about time I stepped back and took another big "cleanse".
 
-### Enjoying The Warmer Weather:
+### Struggling with sleep and routine: 
 
-Sometime in the last month or so it finally got to be warm here in Michigan's Upper Peninsula, so Anné and I have been taking advantage of that with some nice evening walks and meals outside. I've also been trying my best to get slightly more active by dragging us to Anné's university athletics center for excercise, but that's still in the "getting off the ground" phase of routine.
+Maybe in part due to the changing seasons, but I've had a lot of trouble recenty with my sleep schedule and following any sort of consistent routine for my day. Some nights I'll stay up till 5am, while others I'm too tired out to start a 10pm broadcast to Twitch. Other days I'm awake by 8am and finish the day's work by 3 or 4pm, while on other days both those start and end times are well after noon. Another part of this is definitely owed to my entirely remote job not requiring a strict set of "active hours" from me. When the hours themselves don't matter as much, it's entirely up to me how I structure and prioritize my day. I'll be focusing on building up that personal accountability as I continue to settle into my role at ZSA and as the dim winter months roll through.
 
-### Reading More and Watching Less:
+### Enjoying Sunbreak to the end:
 
-This month is the first time I can actually feel my addiction to YouTube finally abating. I've been reading more of [Dan Simmon's Hyperion Cantos](https://en.wikipedia.org/wiki/Hyperion_Cantos), sleeping slighty better, and watching a little less from channels/creators I wouldn't have missed an upload from in the past. This year has been such a rude awakening to how addicted my brain was to various digital "pacifiers", so I hope I can continue to steer myself in a better direction.
+Earlier this year I was worried about if I'd be able to focus on "doing my own thing" and enjoying Monster Hunter Rise: Sunbreak my way regardless of others complaints with the game, and I feel like that's been a resounding success. I'm several hundred hours into the expansion and still only have a fuzzy idea of what the end is fully like, or what setups most players have decided on being the "most effective" way to play. It reminds me of some of my other favorite "first time" experiences in the MH-series; with my understanding and experience slowly growing as I go, rather than rushing or tapping into the whole of the internet for other player's "solved" impressions and tactics for the game. I've definitely been reaching some of the tougher stuff in the game onstream lately, which feels good to rally against some nights and a little too intense on others. I do think I'll be ready to send off the game sometime in the next few months, but until then I'm determined to see it through and finish off with some wickedly fun challenges. :)
 
-### Thinking About Writing More:
-But struggling to commit. 
+### Readying for another northern winter:
 
-Between work, streaming to Twitch, attempting to keep our apartment clean/stocked, spending time with Anné, and a bit of rest when necessary -- I have a hard time dedicating myself to writing much. I really want to change that, though.
+Lastly, I'm gradually coming to look forward to another winter up here in Michigans' upper peninsula. I really enjoyed shooting photos during the warmer months, so I'm sad to see the "nicer" weather leave. I did  come to enjoy the several deep winter months last year where the snowfall was omnipresent -- daily blanketing every lawn and street corner with a fresh dusting of white. Let's just say that for now I'm very thankful my daily commute has shifted to one that spans the length of our apartment, but I'm excited to get out in the cold and photograph what might be Anné and my last winter here as well.
 
 ---
+
+*Previous Now updates:*
+
+- *[June 4th, 2022](/nowarchive/now6-4-22)*
 
 *Credit to [Derek Sivers](https://sive.rs/nowff) for popularizing the /now page idea. It's a good'un. :)*

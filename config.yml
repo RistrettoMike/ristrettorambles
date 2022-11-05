@@ -30,9 +30,9 @@ languages:
                 - name: Now
                   url: now
                   weight: 1
-                - name: Evergreen
-                  url: evergreen
-                  weight: 3
+                #- name: Evergreen
+                  #url: evergreen
+                  #weight: 3
                 #- name: Tags
                   #url: tags/
                   #weight: 10
