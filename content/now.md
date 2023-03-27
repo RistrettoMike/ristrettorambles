@@ -56,7 +56,7 @@ This meant extra time to sleep, time spent with Anné, time reading books, and o
 
 I feel somewhat silly writing this almost a year from when I first started working at [ZSA](http://zsa.io/), but I'm still **so** not good at this "adult responsible time management" thing. Some days truly do have a heavy load of mail and work to be done, but my own tendency to procrastinate, distract myself, and otherwise draw out the tasks at hand means more days end up with long hours than they should. I can accept that remote work being near-wholly different from the jobs I've held before means there's lots I have to learn, but *man* do I wish it came more naturally.
 
----
+<br />
 
 *Previous Now updates:*
 
