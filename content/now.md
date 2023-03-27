@@ -34,32 +34,33 @@ cover:
 ---
 
 # What I'm Doing Now:
-*As updated on November 5th, 2022.*
+*As updated on March 27th, 2023.*
 
-### Practicing photography:
+### Filling in the town:
 
-This summer I purchased my first new-to-me camera in a decade, which quickly snowballed into researching, learning, and practicing a whole lot about photography these last few months. Since then I've shot my way through several late-summer trips, traipsed all around our small town looking for views and moments worth capturing, and *yes* bought probably a bit too much in the way of photo gear. I'm still very much getting my bearings when it comes to subject matter, preferred focal lengths, and the actual *purpose* with which I'm shooting photos, but I'm betting that through continuing to shoot these aspects will continue to become clearer to me.
+I wrote in my last update about having gotten back into photography, which I've stuck with even through the winter months here (weather-sealed photo gear and good gloves have been a boon). A 40mm-equivalent lens has won out as my preferred point of view, and picking out occasional details that stand as evidence of human existance in such cold surroundings has been the theme I've focused on for the past few months. 
 
-### Cutting back on internet-distractions again:
+[Street photography](https://en.wikipedia.org/wiki/Street_photography) (candid, public photographs taken with an anthropoligical, almost documentary bent) fascinates me more than any other subset of the artform, but my living in a small town means that human subject matter can be sparse. To compensate, I've been working on filling in the town's streets like a video game's mini-map and photographing small aspects of the wintery life around me, even without a person-shaped subject to hand. It's been fun, good exercise, and feels like a baseline practice that I can expand to feature actual people doing actual things as the weather warms.
 
-Partially thanks to all my photography (cough-*gear*-cough) research,  I've been watching more videos, shopping more sites, and just spending more time *consuming* things online than I'm really comfortable with. It's been about a year now since I first started more seriously [assessing my attention](https://ristrettorambles.com/posts/assessing-my-attention/) and how it relates to my computer usage, and I think it's about time I stepped back and took another big "cleanse".
+### Mentally thawing from the last of a chilly season:
 
-### Struggling with sleep and routine: 
+This last leg of winter has brought with it another struggle with depression for me. It's something I've dealt with off and on throughout my adult life, and generally manifests as passion for my interests "dimming", self-motivation decreasing, and me hibernating a substantial chunk of time away to cope (either with actual sleep, or with other forms of copasetic distraction). I'm grateful that even since initially drafting this update a few days ago I've begun to feel more like myself again. These feelings do generally melt away in due time for me, but it wouldn't be a very "real" update here without acknowledging this part of my winter.
 
-Maybe in part due to the changing seasons, but I've had a lot of trouble recenty with my sleep schedule and following any sort of consistent routine for my day. Some nights I'll stay up till 5am, while others I'm too tired out to start a 10pm broadcast to Twitch. Other days I'm awake by 8am and finish the day's work by 3 or 4pm, while on other days both those start and end times are well after noon. Another part of this is definitely owed to my entirely remote job not requiring a strict set of "active hours" from me. When the hours themselves don't matter as much, it's entirely up to me how I structure and prioritize my day. I'll be focusing on building up that personal accountability as I continue to settle into my role at ZSA and as the dim winter months roll through.
+### Allowing myself grace from streaming:
 
-### Enjoying Sunbreak to the end:
+Something I'm proud of with my livestream is that I've managed to be quite consistent over the years; resulting in what's ideally a predictable, welcoming broadcast for folks to tune into. However, largely due to depression eating away at my interests, I allowed myself to take my first major break from streaming this month. 
 
-Earlier this year I was worried about if I'd be able to focus on "doing my own thing" and enjoying Monster Hunter Rise: Sunbreak my way regardless of others complaints with the game, and I feel like that's been a resounding success. I'm several hundred hours into the expansion and still only have a fuzzy idea of what the end is fully like, or what setups most players have decided on being the "most effective" way to play. It reminds me of some of my other favorite "first time" experiences in the MH-series; with my understanding and experience slowly growing as I go, rather than rushing or tapping into the whole of the internet for other player's "solved" impressions and tactics for the game. I've definitely been reaching some of the tougher stuff in the game onstream lately, which feels good to rally against some nights and a little too intense on others. I do think I'll be ready to send off the game sometime in the next few months, but until then I'm determined to see it through and finish off with some wickedly fun challenges. :)
+This meant extra time to sleep, time spent with Anné, time reading books, and only booting up OBS to stream when I fully wanted to. It also meant doing more co-streams with my good friend [Phalacin](http://twitch.tv/phalacin), which have been a cozy way to bolster each other through some tougher times. I'm already starting to ramp back up towards regular broadcasts again, but taking a grace period has been good.
 
-### Readying for another northern winter:
+### Racking up more hours at trying to manage my time:
 
-Lastly, I'm gradually coming to look forward to another winter up here in Michigans' upper peninsula. I really enjoyed shooting photos during the warmer months, so I'm sad to see the "nicer" weather leave. I did  come to enjoy the several deep winter months last year where the snowfall was omnipresent -- daily blanketing every lawn and street corner with a fresh dusting of white. Let's just say that for now I'm very thankful my daily commute has shifted to one that spans the length of our apartment, but I'm excited to get out in the cold and photograph what might be Anné and my last winter here as well.
+I feel somewhat silly writing this almost a year from when I first started working at [ZSA](http://zsa.io/), but I'm still **so** not good at this "adult responsible time management" thing. Some days truly do have a heavy load of mail and work to be done, but my own tendency to procrastinate, distract myself, and otherwise draw out the tasks at hand means more days end up with long hours than they should. I can accept that remote work being near-wholly different from the jobs I've held before means there's lots I have to learn, but *man* do I wish it came more naturally.
 
 ---
 
 *Previous Now updates:*
 
+- *[November 5th, 2022](/nowarchive/now11-5-22)*
 - *[June 4th, 2022](/nowarchive/now6-4-22)*
 
 *Credit to [Derek Sivers](https://sive.rs/nowff) for popularizing the /now page idea. It's a good'un. :)*

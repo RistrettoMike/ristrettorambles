@@ -35,9 +35,11 @@ cover:
 
 # About This Site
 
+Ahoy, I'm Mike and RistrettoRambles is my personal website and blog. I've gone by the name "Ristretto" in my streams on Twitch for several years now, and this site will be the home for the majority of my 'rambles' going forward. 
+
 ![thatsme.jpg](/about/thatsme.jpg)
 
-Ahoy, I'm Mike and RistrettoRambles is my personal website and blog. I've gone by the name "Ristretto" in my streams on Twitch for several years now, and this site will be the home for the majority of my 'rambles' going forward. 
+*[Here's a few older photos of me, too.](/aboutphotoarchive/aboutphotoarchive)*
 
 I was raised in one of the suburbs surrounding Detroit before moving to Michigan's Upper Peninsula with my wife Anné shortly after our wedding. I spent 7 years working full-time at small businesses around the state - ranging from several cafes to a rock climbing gym - before taking a support role at the small mechanical keyboard company [ZSA](http://zsa.io/) in mid-2022. For the last 4 years I've also dedicated a good bit of my free time to streaming the Monster Hunter series on Twitch.
 
@@ -49,9 +51,9 @@ All writing for the site is composed in markdown, pushed to a [Github](https://g
 
 ### Me, Elsewhere:
 
-Outside this site you can find me on [my Twitch channel](https://www.twitch.tv/ristrettorambles) where I stream the Monster Hunter games slowly and thoroughly, [my YouTube Channel](https://www.youtube.com/channel/UCgg0KncWzZobxuy3nO0xRuQ) where full stream VODs get archived, [my Twitter](https://twitter.com/ristrettogames), and [my community Discord server.](https://discord.gg/f2QmzbH)
+Outside this site you can find me on [my Twitch channel](https://www.twitch.tv/ristrettorambles) where I stream the Monster Hunter games slowly and thoroughly, [my YouTube Channel](https://www.youtube.com/channel/UCgg0KncWzZobxuy3nO0xRuQ) where full stream VODs get archived, [my Mastodon page](https://mastodon.social/@Ristretto), and [my community Discord server.](https://discord.gg/f2QmzbH)
 
-The aforementioned Twitter and Discord are the easiest places to reach me if you'd like to talk about something, but you can also send me a message at ristrettogames@gmail.com if you'd like to contact me via email.
+The aforementioned Mastodon and Discord are the easiest places to reach me if you'd like to talk about something, but you can also send me a message at ristrettogames@gmail.com if you'd like to contact me via email.
 
 ### Thanks:
 
