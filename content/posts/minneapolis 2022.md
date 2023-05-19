@@ -22,7 +22,7 @@ ShowReadingTime: true
 ShowBreadCrumbs: false
 ShowPostNavLinks: false
 cover:
-    image: /images/minneapolis/cover.JPG # image path/url
+    image: /images/minneapolis/cover.jpeg # image path/url
     #alt: "<alt text>" # alt text
     #caption: "<text>" # display caption under cover
     #relative: false # when using page bundles set this to true
@@ -48,7 +48,7 @@ Upon driving into Minneapolis things did pick up quite a bit, with lanes being a
 
 Having arrived mid-afternoon, we spent some time meeting up with another member of Anné's internship for dinner. While waiting for an open table, we checked out a sort of sunken-park built into a city block. It was about 25 feet below street level, sported many steps and benches, was ringed with different kinds of greenery, and held a skim-shallow wading fountain. The first of many green spaces that surprised me with their frequency around Minneapolis. 
 
-![geometric](/images/minneapolis/geometric.jpg)
+![geometric](/images/minneapolis/geometric.jpeg)
 
 ### Sushi Train
 
@@ -70,13 +70,13 @@ The sushi itself was quite good. I've had slightly fresher-tasting fish or fanci
 
 ### Flock
 
-![flock iPhone pic](/images/minneapolis/flockiphone.jpg)
+![flock iPhone pic](/images/minneapolis/flockiphone.jpeg)
 
 One of my favorite things to do when traveling is to find neat places to sit and use a computer. I couldn't tell you exactly why, aside that I really like using computers, and getting to use them on-the-go and in a new place is sort of exhilarating for me still. All the hardware and software you've spent time selecting there with you, but out in a new place removed from the troubleshooting security of a home setup's spare parts, extra drives, fallback machines, and reliable power and internet. Sort of like a nerdy little adventure, I suppose.
 
 There's something that's always slightly bothered me about this brand of nerdy excursion, and has kept me from being able to feel fully justified about it. I spent time in cafes editing photographs or writing old blog posts in years gone by while on the occasional trip, but I've never had a job or work that I could use as part of my reasoning for holing up on a computer somewhere while others traveling might've wanted to bask on a beach or visit a landmark. That is, until now. 
 
-![Moonlander setup pic](/images/minneapolis/setup.JPG)
+![Moonlander setup pic](/images/minneapolis/setup.jpeg)
 
 This summer I've been trialing doing some remote work for the small mechanical keyboard company [ZSA](https://www.zsa.io/moonlander/). They make the ErgoDox EZ, the Planck EZ, and Moonlander keyboards, and I've been working there as one of a few folks who interface with customers both for more traditional order support, and more organic tech support and recommendations. It's been pretty neat (and I may blog more about it sometime)!
 
@@ -88,7 +88,7 @@ In any case, having actual work to do on this trip *and* wanting to continue pra
 
 Only about a 10 minute drive from our hotel, Flock is located in Minneapolis's Whittier neighborhood, which felt a lot closer to some of the smaller metro downtowns I'm familiar with back in Michigan. The co-working space itself is nestled into a neighborhood not far from the main street's restaurants and cafes, and was yet another place I was thankful to find a surprising amount of greenery. Flock's driveway was ringed with tall fir bushes, the building was covered in vines, and a smattering of flowers dotted around some beds. I got there early on my first day visiting the space, and couldn't help but enjoy sitting there in the summer morning with the plants. 
 
-![flock flower pic](/images/minneapolis/flower.JPG)
+![flock flower pic](/images/minneapolis/flower.jpeg)
 
 Now back to the computers 😅. Flock offered a variety of working spaces from simple tables like the ones you'd find in a coffee shop, to more built-out full desk spaces for folks in need of renting a more dedicated office space. I was thankful that they let me purchase a few single day passes and not some kind of weekly/monthly membership, as I just wasn't going to be in town that long -- nice and flexible. Signing up for a longer-term access membership would surely be more economical over time, but individual days worked well for me.
 
@@ -110,7 +110,7 @@ I'd been watching chair listings for weeks before our arrival in Minneapolis, an
 
 The office space must've had close to 30 Think chairs they were trying to sell off. Some had slightly different configurations like a mesh back, leather seatpan, or Steelcase's 4-way adjustable armrests -- all of which I'd been eying as features I might want. I found only a single chair with the Think's optional lumbar support insert, though unfortunately that specific chair had optioned *out* of the awesome armrests, instead. I deliberated for a bit on if I'd rather have nicer adjustments for my elbows or for my back, before thankfully realizing that the lumbar for the Think 1 chair was fairly simple to swap out. I managed to transfer the lumbar to another chair that *did* have 4-way arms, and frankenstein-ed together the best chair I could from what was there. The office manager facilitating the local sales was kind enough to let me kick in a few extra dollars for having salvaged the parts together, and with that we were on our way. The Think's smaller size and light weight made it easy to transport back to our hotel, and much to Anné's chagrin I brought the chair through the lobby and up to our room. I didn't mind looking slightly odd in the process, I had to try it out!
 
-![Think in hotel](/images/minneapolis/hotelthink.jpg)
+![Think in hotel](/images/minneapolis/hotelthink.jpeg)
 
 I may write more about the few task chair options I've tried some other time (the Mirra 1 really does deserve more praise online), but suffice to say that the Think is quite comfortable, even as it doesn't allow for quite the same degree of tension-adjustment and tilt control as something like the Mirra or the Leap does. It's counter-weight based tension does feel a good deal firmer than I usually keep the resistance on my Mirra, but I've spent a few days working from the Think now, and I'm quite happy with it as a chair to use away from my main desk. 
 
