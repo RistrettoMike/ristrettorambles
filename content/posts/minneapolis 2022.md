@@ -22,7 +22,7 @@ ShowReadingTime: true
 ShowBreadCrumbs: false
 ShowPostNavLinks: false
 cover:
-    image: /images/minneapolis/cover.jpeg # image path/url
+    image: /images/minneapolis/cover.jpg # image path/url
     #alt: "<alt text>" # alt text
     #caption: "<text>" # display caption under cover
     #relative: false # when using page bundles set this to true
@@ -76,7 +76,7 @@ One of my favorite things to do when traveling is to find neat places to sit and
 
 There's something that's always slightly bothered me about this brand of nerdy excursion, and has kept me from being able to feel fully justified about it. I spent time in cafes editing photographs or writing old blog posts in years gone by while on the occasional trip, but I've never had a job or work that I could use as part of my reasoning for holing up on a computer somewhere while others traveling might've wanted to bask on a beach or visit a landmark. That is, until now. 
 
-![Moonlander setup pic](/images/minneapolis/setup.jpeg)
+![Moonlander setup pic](/images/minneapolis/setup.jpg)
 
 This summer I've been trialing doing some remote work for the small mechanical keyboard company [ZSA](https://www.zsa.io/moonlander/). They make the ErgoDox EZ, the Planck EZ, and Moonlander keyboards, and I've been working there as one of a few folks who interface with customers both for more traditional order support, and more organic tech support and recommendations. It's been pretty neat (and I may blog more about it sometime)!
 
@@ -88,7 +88,7 @@ In any case, having actual work to do on this trip *and* wanting to continue pra
 
 Only about a 10 minute drive from our hotel, Flock is located in Minneapolis's Whittier neighborhood, which felt a lot closer to some of the smaller metro downtowns I'm familiar with back in Michigan. The co-working space itself is nestled into a neighborhood not far from the main street's restaurants and cafes, and was yet another place I was thankful to find a surprising amount of greenery. Flock's driveway was ringed with tall fir bushes, the building was covered in vines, and a smattering of flowers dotted around some beds. I got there early on my first day visiting the space, and couldn't help but enjoy sitting there in the summer morning with the plants. 
 
-![flock flower pic](/images/minneapolis/flower.jpeg)
+![flock flower pic](/images/minneapolis/flower.jpg)
 
 Now back to the computers 😅. Flock offered a variety of working spaces from simple tables like the ones you'd find in a coffee shop, to more built-out full desk spaces for folks in need of renting a more dedicated office space. I was thankful that they let me purchase a few single day passes and not some kind of weekly/monthly membership, as I just wasn't going to be in town that long -- nice and flexible. Signing up for a longer-term access membership would surely be more economical over time, but individual days worked well for me.
 
