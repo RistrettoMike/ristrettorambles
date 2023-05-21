@@ -99,7 +99,7 @@ The keyboard turned out to be a pretty finicky upgrade for me. I didn't mind the
 
 As mentioned above, the backlit keyboard does feel slightly different from the non-backlit model in typing dynamics. It seems to have the same amount of tactility and force required for a keypress, but springs back afterward ever so slightly softer & quieter. I don't feel a huge difference in use, but I do give a slight edge to the feel of the non-backlit model. The keys of the backlit keyboard are made of a higher quality material and have legends formed into the keys themselves to allow the backlight to shine through. The backlight itself isn't as bright or as clean as other laptops I've seen, but I appreciate having the option there when I need it.
 
-![traackpad](/images/t480post/trackpad.jpg)
+![trackpad](/images/t480post/trackpad.jpg)
 
 ### X1 Extreme Glass Trackpad
 

@@ -33,9 +33,9 @@ cover:
     appendFilePath: true # to append file path to Edit link
 ---
 
-![thatsme0.jpg](/aboutphotoarchive/thatsme0.JPG)
+![thatsme0.jpg](/aboutphotoarchive/thatsme0.jpg)
 *Me in 2016.*
-![thatsme1.jpg](/aboutphotoarchive/thatsme1.JPG)
+![thatsme1.jpg](/aboutphotoarchive/thatsme1.jpg)
 *Me in 2019.*
 ![thatsme2.jpg](/aboutphotoarchive/thatsme2.jpg)
 *Me in 2021.*
