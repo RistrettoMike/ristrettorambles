@@ -1,7 +1,7 @@
 baseURL: "https://ristrettorambles.com/"
 title: RistrettoRambles	
 paginate: 5
-theme: hugo-PaperMod
+theme: hugo-PaperMod-7.0
 
 enableInlineShortcodes: true
 enableRobotsTXT: true
