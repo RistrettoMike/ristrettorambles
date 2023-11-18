@@ -47,6 +47,7 @@ outputs:
         - JSON
 
 params:
+    ShowFullTextinRSS: true
     env: production # to enable google analytics, opengraph, twitter-cards and schema.
     description: "Rambles from Ristretto, in blog form."
     author: Ristretto
